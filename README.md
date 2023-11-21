@@ -40,25 +40,28 @@ O HealSphere tem o objetivo de trazer um serviço de eficiência de fila para ho
 
 ## 🧰 Layout básico da Simulação
 
-![LayoutSimulação](https://github.com/Luan-Nijou/PassBy-Edge/assets/126830016/e6ab3583-d07f-4397-bf46-fd9e6c17b635)
+![LayoutSimulação](https://github.com/Luan-Nijou/GsEdge/assets/126830016/0b5191bb-58bc-46cd-ae2e-f26e1b89887c)
+
 
 ## 📋 Descrição da Simulação
 
 <p align="justify">
-Com o sistema de internet funcionando do ESP32, transmitirá informações para o site, a plataforma terá a função de exibir em 3 display, 1º se foi confirmado o ID(Cadastrado para ID condizente), 2º mostrando o ID, e o 3º se o ID pode passar(CONFIRMADO para acesso permitido)
+Com o sistema de internet funcionando do ESP32, transmitirá informações para o site, a plataforma terá a função de exibir em 3 display, 1º é o número de pessoas, 2º mostrando "qual o hospital", e o 3º é a da quantidade de pessoa.
 <p/>
  
-![Tago3](https://github.com/Luan-Nijou/PassBy-Edge/assets/126830016/ea4461c4-96b5-4853-9ccf-2b3567f3b47d)
+![Tago3](https://github.com/Luan-Nijou/GsEdge/assets/126830016/56bdf225-7caa-4109-a4c8-fecdcc83c96b)
 
 ## Replicar 
 
+
 <p align="justify">
+
 Para replicar ou/e modificar do seu modo:
 
- 1. Possuir em seu dispositivo o acesso ao projeto da [Wokwi](https://wokwi.com/projects/381019449164549121) e uma conta na [tago.io](https://tago.io),e [aqui um video](https://www.youtube.com/watch?v=leKi6Tt3DXI) para enteder o basico da tago.
- 2. Possuir o hardware no Wokwi, que seráa apenas um ESP32.
- 3. Depois, faça as configurações principais do código, como: Colocar o nome e a senha corretamente(ou apenas testar com a própria "internet" do projeto, que é uma internet teste da Wokwi), e o token do device que foi criado na tago.
- 4. E assim faça seus testes!!
+ 1. Possuir em seu dispositivo o acesso ao projeto da [Wokwi](https://wokwi.com/projects/381783222963131393) e uma conta na [tago.io](https://tago.io),e [aqui um video](https://www.youtube.com/watch?v=leKi6Tt3DXI) para enteder o basico da tago.
+ 2. Possuir o hardware no Wokwi, que será um ESP32, 2 potenciômetro, e os cabos. 
+ 4. Depois, faça as configurações principais do código, como: Colocar o nome e a senha corretamente(ou apenas testar com a própria "internet" do projeto, que é uma internet teste da Wokwi), e o token do device que foi criado na tago.
+ 5. E assim faça seus testes!!
 <p/>
 
 ## 💻 Linguagem Usada
