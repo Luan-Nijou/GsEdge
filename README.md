@@ -14,7 +14,7 @@
 
 :small_blue_diamond: [Acesso ao projeto](#-acesso-ao-projeto)
 
-:small_blue_diamond: [Descrição doproblema](#-descrição-do-problema)
+:small_blue_diamond: [Descrição do problema](#-descrição-do-problema)
 
 :small_blue_diamond: [Descrição do projeto](#-descrição-do-projeto)
 
