@@ -32,7 +32,7 @@
 
 ## 📁 Acesso ao projeto
 
- [Acesso do código fonte da simulação.](https://github.com/Luan-Nijou/PassBy-Edge/blob/main/Code.ino)
+ [Acesso do código fonte da simulação.](https://github.com/Luan-Nijou/GsEdge/blob/main/code.ino)
 
 ## 📝 Descrição do problema
 
