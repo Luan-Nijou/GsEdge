@@ -32,6 +32,14 @@
 
  [Acesso do código fonte da simulação.](https://github.com/Luan-Nijou/PassBy-Edge/blob/main/Code.ino)
 
+## 📝 Descrição do problema
+
+<p align="justify">
+A tecnologia tem desempenhado um papel crucial na área da saúde, trazendo avanços significativos que melhoram a qualidade de vida e a eficiência dos cuidados de saúde. No entanto, também existem desafios e problemas que precisam ser abordados para garantir que a tecnologia seja usada de maneira eficaz e segura na área da saúde. 
+
+No entanto, também existem desafios e problemas que precisam ser abordados para garantir que a tecnologia seja usada de maneira eficaz e segura na área da saúde. A avaliação dos custos e benefícios de novas tecnologias para a incorporação de novos medicamentos e ferramentas é fundamental para garantir a sustentabilidade e o planejamento financeiro dos sistemas de saúde. Além disso, é necessário considerar o impacto orçamentário e garantir que a incorporação dessas tecnologias não prejudique a sustentabilidade a longo prazo ou prejudique outros serviços e pacientes.
+</p> 
+
 ## 📝 Descrição do projeto 
 
 <p align="justify">
